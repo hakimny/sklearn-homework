@@ -16,3 +16,4 @@ Version: 1.0
 ##### Reach
 1. use 1+ other types of classifier/regressors in scikit-learn for answering your question. (check the section About choosing the best algorithms https://cce-bigdataintro-1160.github.io/CEBD-1160-fall-2019-site/8-ml.html for ideas)
 2. using comments, describe the classifiers/regressors you're using (that'd be to do a very short research on how the algorithms you're using works) (edited) 
+
